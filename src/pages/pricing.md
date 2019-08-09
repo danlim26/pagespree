@@ -20,12 +20,9 @@ sections:
   - title: Premium
     price: "$325"
     details: |-
-      * Custom Design
-      * Up to 5 Pages
-      * 2 Revisions
-      * HTTPS encryption
-      * Connect your own domain
-      * Content Management System
+      * Everything under Landing Pages
+      * Up to 10 Pages
+      * Blogging features
     highlight: true
     actions:
     - label: Order Now
