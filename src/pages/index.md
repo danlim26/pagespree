@@ -66,11 +66,11 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: Get your beautiful website from $49
   component: CtaBlock
-  subtitle: This is an optional description for the call to action block.
+  subtitle: Hosting, domain name, CMS and SSL-certificate included
   actions:
-  - label: Get Started
+  - label: Get Website
     url: "/signup"
 - type: postsblock
   template: postsblock
