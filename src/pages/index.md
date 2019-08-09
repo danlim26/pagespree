@@ -25,7 +25,7 @@ sections:
     content: Static sites removes complexity from traditional backends. There’s no
       database, backend languages or complex infrastructure to manage. Static sites
       are faster to build, secured and require less technical knowledge and upkeep.
-    image: "/images/hero-1.png"
+    image: "/images/feature1.PNG"
     actions:
     - label: Learn More
       url: "/features"
