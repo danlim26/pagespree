@@ -16,19 +16,19 @@
   },
   "footer": {
     "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "Stunning Website at a fair price",
     "has_nav": true,
-    "nav_title": "Company",
+    "nav_title": "Pagespree",
     "has_social": true,
     "social_title": "Community",
     "has_subscribe": true,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Pagespree 2019. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Made with Pagespree",
+        "url": "https://www.pagespree.co",
         "new_window": true
       }
     ]
