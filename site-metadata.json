@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Pagespree",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/logo-1.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -15,7 +15,7 @@
     }
   },
   "footer": {
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/logo-1.png",
     "tagline": "Stunning Website at a fair price",
     "has_nav": true,
     "nav_title": "Pagespree",
