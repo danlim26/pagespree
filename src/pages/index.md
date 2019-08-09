@@ -30,9 +30,10 @@ sections:
     - label: Learn More
       url: "/features"
   - title: Powerful Admin Interface
-    content: "Empowers editor with a powerful admin interface. Customize each page
-      with Forestry's rich editing fields.\n\nLogin from your **yoursite.com/admin**.
-      With Forestry Remote, your site will transcend static. "
+    content: |-
+      Empowers editor with a powerful admin interface. Customize each page with Forestry's rich editing fields.
+
+      Login from your **yoursite.com/admin**. With Forestry Remote admin, your site will transcend static.
     image: "/images/fiverr2.PNG"
     actions:
     - label: Learn More
