@@ -27,15 +27,9 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
-  - title: E-commerce using Snipcart
+  - title: 'E-commerce '
     price: "$649"
-    details: |-
-      * Custom Design
-      * Up to 5 Pages
-      * 2 Revisions
-      * HTTPS encryption
-      * Connect your own domain
-      * Content Management System
+    details: "* Everything under Premium\n* E-Commerce features using snipcart "
     actions:
     - label: Order Now
       url: "/signup"
