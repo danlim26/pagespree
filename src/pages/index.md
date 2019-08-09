@@ -14,7 +14,7 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: Features
+  title: Features PAGESPREE
   component: FeaturesBlock
   subtitle: Utilizing the best of modern, open source technologies, Pagespree offers
     a refined and carefully crafted tool-belt from which to build stunning, modern
