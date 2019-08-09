@@ -22,9 +22,9 @@ sections:
   bg: white
   featureslist:
   - title: Static Site Generators
-    content: Building a Static Website from design or just moving an existing Site
-      to Static? Gatsby, Hugo, Next, Jekyll or other? Pick your favorite. Don't know
-      the difference? Let us help.
+    content: Static sites remove complexity from traditional backends. There’s no
+      database, backend languages or complex infrastructure to manage. Static sites
+      are faster to build, secured and require less technical knowledge and upkeep.
     image: "/images/feature1.PNG"
     actions:
     - label: Learn More
