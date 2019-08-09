@@ -29,10 +29,11 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Powerful Admin Interface
+    content: "Empowers editor with a powerful admin interface. Customize each page
+      with Forestry's rich editing fields.\n\nLogin from your **yoursite.com/admin**.
+      With Forestry Remote, your site will transcend static. "
+    image: "/images/fiverr2.PNG"
     actions:
     - label: Learn More
       url: "/features"
