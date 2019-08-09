@@ -16,14 +16,16 @@ sections:
   section_id: features
   title: Features
   component: FeaturesBlock
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
-  bg: gray
+  subtitle: Utilizing the best of modern, open source technologies, Pagespree offers
+    a refined and carefully crafted tool-belt from which to build stunning, modern
+    websites.
+  bg: white
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+  - title: Static Site Generators
+    content: Building a Static Website from design or just moving an existing Site
+      to Static? Gatsby, Hugo, Next, Jekyll or other? Pick your favorite. Don't know
+      the difference? Let us help.
+    image: "/images/feature1.PNG"
     actions:
     - label: Learn More
       url: "/features"
