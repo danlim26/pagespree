@@ -9,7 +9,7 @@ sections:
   content: 'Get a stunning website from the design studio at a fair price. '
   image: images/hero.png
   actions:
-  - label: Learn More
+  - label: Get Website
     url: "/features"
 - type: featuresblock
   template: featuresblock
