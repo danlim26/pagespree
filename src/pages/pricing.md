@@ -30,11 +30,11 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
-  - title: E-commerce Lite
+  - title: E-commerce using Snipcart
     price: "$649"
     details: |-
       * Custom Design
-      * Up to 10 Pages
+      * Up to 5 Pages
       * 2 Revisions
       * HTTPS encryption
       * Connect your own domain
