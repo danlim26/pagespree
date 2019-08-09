@@ -7,7 +7,7 @@ sections:
   title: Custom websites at 1/10 of the cost
   component: HeroBlock
   content: 'Get a stunning website from the design studio at a fair price. '
-  image: "/images/hero-1.png"
+  image: "/images/hero.png"
   actions:
   - label: Get Website
     url: "/features"
