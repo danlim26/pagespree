@@ -22,7 +22,7 @@ sections:
   bg: white
   featureslist:
   - title: Static Site Generators
-    content: Static sites remove complexity from traditional backends. There’s no
+    content: Static sites removes complexity from traditional backends. There’s no
       database, backend languages or complex infrastructure to manage. Static sites
       are faster to build, secured and require less technical knowledge and upkeep.
     image: "/images/feature1.PNG"
