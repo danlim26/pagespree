@@ -17,21 +17,28 @@ sections:
     - label: Order Now
       url: "/signup"
     highlight: false
-  - title: Up to 10 pages
+  - title: Premium
     price: "$325"
-    details: "* Custom Design\n* Up to 10 Pages\n* 2 Revisions\n* HTTPS encryption\n*
-      Connect your own domain \n* Content Management System "
+    details: |-
+      * Custom Design
+      * Up to 5 Pages
+      * 2 Revisions
+      * HTTPS encryption
+      * Connect your own domain
+      * Content Management System
     highlight: true
     actions:
     - label: Order Now
       url: "/signup"
-  - title: Enterprise
-    price: "$149/m"
+  - title: E-commerce Lite
+    price: "$649"
     details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
+      * Custom Design
+      * Up to 10 Pages
+      * 2 Revisions
+      * HTTPS encryption
+      * Connect your own domain
+      * Content Management System
     actions:
     - label: Order Now
       url: "/signup"
