@@ -41,7 +41,7 @@ sections:
       edits.
   - question: Step 4 - Complete Website
     answer: As soon as your website is ready, go online and start attracting customers.
-  section_id: ''
+  section_id: how-we-work
 - type: featuresblock
   template: featuresblock
   section_id: features
