@@ -32,8 +32,6 @@ sections:
   subtitle: ''
   title: How we work
   faqitems:
-  - question: Step 4 - Complete Website
-    answer: As soon as your website is ready, go online and start attracting customers.
   - question: Step 1 - Discussion
     answer: All the magic starts with a brief discussion with our website setup expert.
   - question: Step 2 - Creation
@@ -41,6 +39,8 @@ sections:
   - question: Step 3 - Revision
     answer: Within 3 days, you will receive a design concept to review and suggest
       edits.
+  - question: Step 4 - Complete Website
+    answer: As soon as your website is ready, go online and start attracting customers.
   section_id: ''
 - type: featuresblock
   template: featuresblock
