@@ -15,7 +15,7 @@
     }
   },
   "footer": {
-    "logo_img": "/images/logo-1.png",
+    "logo_img": "/images/logo_alt.png",
     "tagline": "Stunning Website at a fair price",
     "has_nav": true,
     "nav_title": "Pagespree",
