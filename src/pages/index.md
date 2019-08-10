@@ -23,7 +23,7 @@ sections:
     to manage it yourself in an **intuitive website editor**."
   title: Who we are
   section_id: who-we-are
-  image: "/images/who-we-are.png"
+  image: "/images/smartmockups_jz5ba72u.jpg"
   actions: []
 - type: featuresblock
   template: featuresblock
