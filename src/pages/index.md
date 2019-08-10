@@ -18,9 +18,9 @@ sections:
   content: "**We are a customer-oriented design studio creating websites using JAMSTACK
     best practices.**\n\nWe start work with a deep **analysis of your business niche**
     to ensure that your website will not only look good but also reach your business
-    goals.  \nWe **listen to your feedback** and make edits to make sure you'll be
-    happy with the result.  \nAs soon as your site is ready, you'll be able to manage
-    it yourself in an **intuitive website editor**."
+    goals.\n\n  \nWe **listen to your feedback** and make edits to make sure you'll
+    be happy with the result.\n\n  \nAs soon as your site is ready, you'll be able
+    to manage it yourself in an **intuitive website editor**."
   title: Who we are
   section_id: who-we-are
   image: "/images/feature1.png"
