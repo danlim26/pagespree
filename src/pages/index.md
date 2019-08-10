@@ -25,6 +25,23 @@ sections:
   section_id: who-we-are
   image: "/images/smartmockups_jz5bq0vw-removebg-preview.png"
   actions: []
+- template: faqblock
+  component: FaqBlock
+  bg: gray
+  type: faqblock
+  subtitle: ''
+  title: How we work
+  faqitems:
+  - question: Step 4 - Complete Website
+    answer: As soon as your website is ready, go online and start attracting customers.
+  - question: Step 1 - Discussion
+    answer: All the magic starts with a brief discussion with our website setup expert.
+  - question: Step 2 - Creation
+    answer: Our team creates a prototype that meets your business needs.
+  - question: Step 3 - Revision
+    answer: Within 3 days, you will receive a design concept to review and suggest
+      edits.
+  section_id: ''
 - type: featuresblock
   template: featuresblock
   section_id: features
