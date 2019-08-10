@@ -58,8 +58,8 @@ sections:
   section_id: call-to-action
   title: Get your beautiful website from $49
   component: CtaBlock
-  subtitle: One-time fee. No Recurring or subscription fee. (Hosting, domain name,
-    CMS and SSL-certificate included)
+  subtitle: One-time payment - no recurring fees or subscriptions. (Hosting, domain
+    name, CMS and SSL-certificate included)
   actions:
   - label: Get Website
     url: "/signup"
