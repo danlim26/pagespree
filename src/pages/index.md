@@ -56,7 +56,8 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Get your beautiful website from $49
+  title: Get your beautiful website from $49. One-time fee. No Recurring or subscription
+    fee.
   component: CtaBlock
   subtitle: Hosting, domain name, CMS and SSL-certificate included
   actions:
