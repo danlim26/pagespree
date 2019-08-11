@@ -33,6 +33,7 @@ sections:
     details: |-
       * Everything under Premium
       * E-Commerce features using Snipcart
+      * Webmaster hours - 10
     actions:
     - label: Order Now
       url: "/signup"
