@@ -78,7 +78,7 @@ sections:
   subtitle: Hosting, domain name, CMS and SSL-certificate included
   actions:
   - label: Get Website
-    url: "/signup"
+    url: https://danilolim167118.typeform.com/to/YTnYbq
 menus:
   main:
     title: Home
