@@ -30,8 +30,8 @@ sections:
   templates:
   - pricing
 - type: document
-  path: src/pages/features.md
-  label: Features
+  path: src/pages/services.md
+  label: Services
   templates:
   - features
 - type: document
@@ -49,7 +49,7 @@ sections:
   label: Page
   create: all
   match: "**/*"
-  exclude: "{posts/**,index.md,pricing.md,blog/index.md,contact.md}"
+  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md}"
   templates:
   - page
 - type: directory
