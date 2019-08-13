@@ -40,9 +40,9 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call to Action Block!
+  title: Get a professional website from $49
   component: CtaBlock
-  subtitle: This is an optional description for the call to action block.
+  subtitle: One-time payment - no recurring fees or subscriptions
   actions:
   - label: Get Started
     url: https://danilolim167118.typeform.com/to/YTnYbq
