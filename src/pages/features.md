@@ -45,7 +45,7 @@ sections:
   subtitle: This is an optional description for the call to action block.
   actions:
   - label: Get Started
-    url: "#"
+    url: https://danilolim167118.typeform.com/to/YTnYbq
 menus:
   main:
     title: Features
