@@ -49,7 +49,7 @@ sections:
   label: Page
   create: all
   match: "**/*"
-  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md}"
+  exclude: "{posts/**,index.md,pricing.md,blog/index.md,contact.md}"
   templates:
   - page
 - type: directory
