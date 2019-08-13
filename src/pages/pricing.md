@@ -20,7 +20,7 @@ sections:
       * Content Management System
     actions:
     - label: Order Now
-      url: "/signup"
+      url: https://danilolim167118.typeform.com/to/YTnYbq
     highlight: false
   - title: Premium
     price: "$325"
@@ -32,7 +32,7 @@ sections:
     highlight: true
     actions:
     - label: Order Now
-      url: "/signup"
+      url: https://danilolim167118.typeform.com/to/YTnYbq
   - title: 'E-commerce '
     price: "$649"
     details: |-
@@ -41,7 +41,7 @@ sections:
       * Webmaster hours - 10
     actions:
     - label: Order Now
-      url: "/signup"
+      url: https://danilolim167118.typeform.com/to/YTnYbq
     highlight: false
 - type: faqblock
   template: faqblock
