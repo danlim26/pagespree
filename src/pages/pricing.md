@@ -6,7 +6,8 @@ sections:
   section_id: pricing
   title: Pricing Plans
   component: PricingBlock
-  subtitle: One-time payment - no recurring fees or subscriptions.
+  subtitle: The prices below do not include the price of pagespree hosting* ($36 /
+    Year)
   bg: gray
   pricingplans:
   - title: Landing Page
