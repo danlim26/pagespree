@@ -11,8 +11,13 @@ sections:
   pricingplans:
   - title: Landing Page
     price: "$49"
-    details: "* Custom Design\n* 1 Page\n* 2 Revisions\n* HTTPS encryption\n* Connect
-      your own domain \n* Content Management System"
+    details: |-
+      * Template-based
+      * 1 Page
+      * 2 Revisions
+      * HTTPS encryption
+      * Connect your own domain
+      * Content Management System
     actions:
     - label: Order Now
       url: "/signup"
@@ -21,7 +26,7 @@ sections:
     price: "$325"
     details: |-
       * Everything under Landing Pages
-      * Up to 10 Pages
+      * Up to 10 Pages + Custom Design
       * Blogging features
       * 30-days money back guarantee.
     highlight: true
